@@ -17,6 +17,7 @@ https://youtu.be/S5sOeOxj_zQ
 - Experience replay (buffer size 20,000) and ε-greedy exploration.
 
 ## 📸 Gameplay
+![Gameplay Screenshot](gameplay.png)
 ![Training Progress](training_final_results.png)  
 *Training curve showing score improvement over 300 episodes.*
 
